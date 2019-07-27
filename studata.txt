@@ -1,0 +1,5 @@
+huawei001,刘正风,35,北京
+huawei002,左冷禅,32,西安
+huawei003,风清扬,30,洛阳
+huawei004,令狐冲,28,金州
+huawei005,James,36,洛杉矶
